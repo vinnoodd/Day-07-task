@@ -1,0 +1,90 @@
+.places-fix1
+{
+  text-align: justify;
+  font-size:15px;
+  columns: 3 25ch;
+  text-indent: 50px;
+  }
+
+
+
+
+.head{
+    text-align: center;
+}
+
+
+h5
+{
+  text-align:center;
+}
+
+.container
+{
+display: flex;
+flex-direction: row;
+}
+
+
+.Indian Express-Newspaper
+{
+ color:black;
+ text-align:cnter;
+ font-size:80px;
+} 
+
+
+h2
+{
+  color:black;
+  text-align:center;
+  font-size:130px;
+}
+
+.Places-Tata
+{
+  color:teal;
+}
+
+
+.alignleft {
+  float: left;
+  width:33.33333%;
+  text-align:left;
+  font-weight:lighter;
+    font-size:30px;
+}
+.aligncenter {
+  float: left;
+  width:33.33333%;
+  text-align:center;
+   font-weight:bold;
+  font-size:30px;
+}
+.alignright {
+ float: left;
+ width:33.33333%;
+ text-align:right;
+   font-weight:lighter;
+    font-size:30px;
+}
+
+
+
+
+
+
+
+
+body
+{
+  border-style: groove;
+}
+
+.w3-round
+{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
